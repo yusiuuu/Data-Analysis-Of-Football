@@ -58,3 +58,20 @@ plt.show()
 
 ```
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ac9b0f0d-c971-48f7-9696-9ea5a9a74258" />
+
+
+The project is aimed at studying the kaggle football dataset, to analyse, extract information from it and make predictions based on the data.
+The main goal is to find the weaknesses and strengths of the team and assess the ways of measurement and improvement of the team performance.
+We got the most effective events and capitalised on their characteristics in order to achieve the set goal.
+
+Examples of events used to determine the extent of the teams' weaknesses:
+
+Yellow and red cards served
+Fouls against the team
+Shoots off target
+Penalty against the team
+Offsides
+Shot place
+Too high
+High and wide
+Goals against the team

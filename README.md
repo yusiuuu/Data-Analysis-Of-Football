@@ -67,11 +67,19 @@ We got the most effective events and capitalised on their characteristics in ord
 Examples of events used to determine the extent of the teams' weaknesses:
 
 Yellow and red cards served
+
 Fouls against the team
+
 Shoots off target
+
 Penalty against the team
+
 Offsides
+
 Shot place
+
 Too high
+
 High and wide
+
 Goals against the team
